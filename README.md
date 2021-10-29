@@ -1,17 +1,21 @@
-#### Image Recognition (이미지 인식)
-
 ### Computer Vision
 
+#### 1. Classification
 
-#### Natural Language Processing (자연어 처리)
+#### 2. Detection
 
+#### 3. Visual Tracking (Object Tracking)
 
-#### Generative Model & Super Resolution (생성 모델 & 해상도 복원)
+#### 3. Segmentation
+* Deep Residual Learning for Image Recognition (CVPR 2016)
+    * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
+* Arbitrary Style Transfer in Real-time with 
+#### 4. Super-Resolution
 
+#### 5. Image Generation
 
-#### Modeling & Optimization (모델링 & 최적화)
+### Natural Language Processing
 
+### Machine Learning
 
-
-#### Adversarial Examples & Backdoor Attacks (적대적 예제 & 백도어 공격)
-
+### Deep Learning
