@@ -5,7 +5,9 @@
 #### 2. Detection
 * EfficientDet: Scalable and Efficient Object Detection (CVPR 2019)
     * [Link](https://arxiv.org/abs/1911.09070) / [Review Code](https://amaarora.github.io/2021/01/11/efficientdet.html) 
-
+* Weighted boxes fusion: Ensembling boxes from different object detection models (CVPR 2019)
+    * [Link](https://arxiv.org/abs/1910.13302) / [Review](https://lv99.tistory.com/74) 
+    * 
 #### 3. Visual Tracking (Object Tracking)
 * Fully-Convolutional Siamese Networks for Object Tracking (ECCV 2016)
     * [Link](https://arxiv.org/abs/1606.09549) / [Review Code](https://programmer.help/blogs/siamfc-pytorch-code-explanation-demo-track.html) 
